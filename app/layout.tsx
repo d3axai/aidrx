@@ -14,11 +14,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "I am dream how can I help you today ? ",
+  title: "I am dream, how can I help you today?",
   description:
-    "
-
-Example Before you begin, write the following message: [You are a technical expert with advanced skills in web application development. {Put your requirements here. ",
+    "مثال قبل البداية أكتب الرسالة التالية انت خبير تقني ذو مهارات متقدمة في تطوير تطبيقات الويب ضع هنا مطالبك",
 };
 
 export default function RootLayout({
